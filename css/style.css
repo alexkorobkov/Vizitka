@@ -198,7 +198,7 @@ body {
 /* блок, который задаёт размеры области для содержания страницы. В нем находятся фото, текст и ссылки */
 .container {
    width: 100%;
-   padding: 5.56vw;
+   padding: 6.56vw;
 }
 
 @media (max-width:1439.98px) {
@@ -280,7 +280,7 @@ body {
 /* картинка Марио */
 .mario-img {
    /* размеры */
-   width: 4.1vw;
+   width: 4 vw;
    height: 7.85vw;
 }
 
@@ -420,7 +420,7 @@ body {
    /* текст выводится заглавными буквами */
    text-transform: uppercase;
    /* размер шрифта */
-   font-size: 1.25vw;
+   font-size: 1.35vw;
    /* отступы между строчками */
    margin: 1.39em 0px;
 }
@@ -439,7 +439,7 @@ body {
 
 /* цвет наименований */
 .list span:first-child {
-   color: #14cb0e;
+   color: #500ecb;
 }
 
 .list span:nth-child(2) {
@@ -462,9 +462,9 @@ a {
    padding: 2.08vw;
    font-size: 1.11vw;
    /* цвет шрифта */
-   color: #7d18db;
+   color: #db184c;
    /* рамка ссылки: толщина линии, вид рамки, цвет */
-   border: 0.28vw solid rgb(18, 162, 178);
+   border: 0.28vw solid rgb(154, 178, 18);
    /* цвет фона */
    background-color: #FFFFFF;
 }
