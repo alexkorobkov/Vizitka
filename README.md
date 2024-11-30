@@ -5,4 +5,4 @@
 
 I'm currently learning Python
 -->
-[Мой сайт-визитка](https://alexkorobkov.github.io/Seit-HTML-CSS/)
+[Мой сайт-визитка](https://alexkorobkov.github.io/Vizitka/)
